@@ -57,7 +57,7 @@
     <feat name="Number" value="Plur" upos="ADJ,ADV,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">23787</feat><!-- са, които, много, те, всички, тези, бяха, г., ги, години -->
     <feat name="Number" value="Ptan" upos="NOUN,PROPN">333</feat><!-- хората, хора, души, преговори, преговорите, финансите, Кремиковци, боеприпаси, книжа, книжата -->
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">62755</feat><!-- е, това, той, го, има, България, бе, който, няма, може -->
-    <feat name="NumType" value="Card" upos="ADV,NUM">2720</feat><!-- много, повече, две, един, два, 2, една, 1, 3, толкова -->
+    <feat name="NumType" value="Card" upos="ADV,NUM">2722</feat><!-- много, повече, две, един, два, 2, една, 1, 3, толкова -->
     <feat name="NumType" value="Ord" upos="ADJ,NUM">909</feat><!-- 2001, 2000, първата, първите, 1, втори, първи, 1998, II, втора -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB">3246</feat><!-- ни, ми, аз, съм, нас, ние, сме, ме, нашите, искам -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,VERB">1435</feat><!-- ти, ви, си, те, вие, сте, вас, тебе, можеш, имате -->

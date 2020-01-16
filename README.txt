@@ -120,6 +120,9 @@ divided by 10, the reminder is 1.
 Changelog
 ---------
 
+* 2020-01-16 **IWPT Shared Task Data**
+  * Enhanced graph: Added empty nodes representing elided predicates.
+
 2.2 -> 2.3
 
 Automatic addition of enhanced dependencies.

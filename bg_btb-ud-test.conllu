@@ -13184,8 +13184,8 @@
 11	очакват	очаквам	VERB	Vpitf-r3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	_
 12	по	по	ADP	R	_	13	case	13:case	_
 13	2	2-3	NUM	Mc-pi	Definite=Ind|Number=Plur|NumType=Card	16	nmod	16:nmod:по	_
-14	-	_	NUM	Mc-pi	_	13	goeswith	13:goeswith	_
-15	3	_	NUM	Mc-pi	_	13	goeswith	13:goeswith	_
+14	-	_	NUM	Mc-pi	NumType=Card	13	goeswith	13:goeswith	_
+15	3	_	NUM	Mc-pi	NumType=Card	13	goeswith	13:goeswith	_
 16	случая	случай	NOUN	Ncmt	Gender=Masc|Number=Count	11	nsubj:pass	11:nsubj:pass	_
 17	всяка	всеки	DET	Pce-os-f	Gender=Fem|Number=Sing|PronType=Tot	18	det	18:det	_
 18	година	година	NOUN	Ncfsi	Definite=Ind|Gender=Fem|Number=Sing	16	nmod	16:nmod	SpaceAfter=No
